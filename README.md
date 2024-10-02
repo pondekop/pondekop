@@ -11,10 +11,10 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 ## 🛠️ Skills & Technologies
 - 💻 **Languages**: Java, JavaScript, Python, HTML, CSS, PHP
 - 🗄️ **Databases**: PostgreSQL
-- 🛠️ **Tools**: GitHub, Visual Studio Code, pgAdmin4, eclipse
+- 🛠️ **Tools**: GitHub, Visual Studio Code, pgAdmin4, eclipse, flask
 - 🎨 **Design**: Figma (I have some experience), Blender (basic 3D modeling)
 
-![](https://skillicons.dev/icons?i=java,js,python,html,css,php,postgres,github,vscode,eclipse,figma,blender)
+![](https://skillicons.dev/icons?i=java,js,python,html,css,php,postgres,github,vscode,eclipse,flask,figma,blender)
 ---
 
 ## 📚 What I'm Learning
