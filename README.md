@@ -9,17 +9,17 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 ---
 
 ## 🛠️ Skills & Technologies
-- 💻 **Languages**: Java, JavaScript, Python, HTML, CSS, PHP
-- 🗄️ **Databases**: PostgreSQL
-- 🛠️ **Tools**: GitHub, Visual Studio Code, pgAdmin4, eclipse, flask
-- 🎨 **Design**: Figma (I have some experience), Blender (basic 3D modeling)
+-  **Languages**: Java, JavaScript, Python, HTML, CSS, PHP
+-  **Databases**: PostgreSQL
+-  **Tools**: GitHub, Visual Studio Code, pgAdmin4, eclipse, flask
+-  **Design**: Figma (I have some experience), Blender (basic 3D modeling)
 
 ![](https://skillicons.dev/icons?i=java,js,python,html,css,php,postgres,github,vscode,eclipse,flask,figma,blender)
 ---
 
 ## 📚 What I'm Learning
-- 🌱 **Exploring**: Java Swing, JSP/Servlet for web development
-- 🧠 **Improving**:
+-  **Exploring**: Java Swing, JSP/Servlet for web development
+-  **Improving**:
   - Object-Oriented Design
   - UI/UX Design for user-friendly and stylish apps
   - Advanced JavaScript (DOM manipulation, event handling)
@@ -30,18 +30,18 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 ---
 
 ## 🎯 Goals
-- 🚀 **Develop** apps that help people share and learn from mistakes
-- 🎮 **Create** fun and interactive games (like a sushi-themed memory matching game! 🍣)
-- 👩‍💻 **Grow** as a software engineer, learning new technologies and refining my skills
+-  **Develop** apps that help people share and learn from mistakes
+-  **Create** fun and interactive games (like a sushi-themed memory matching game! 🍣)
+-  **Grow** as a software engineer, learning new technologies and refining my skills
 
 ---
 
 ## 🌸 Fun Facts About Me
-- 🍣 I love sushi and sometimes integrate sushi elements into my projects
-- 🐦 I live with two adorable little birds!
-- 📝 I’m always sketching new app ideas and features
-- 📚 I'm studying English to improve my skills!
-- 👾 I create pixel art, and my icon is self-made!
+-  I love sushi and sometimes integrate sushi elements into my projects
+-  I live with two adorable little birds!
+-  I’m always sketching new app ideas and features
+-  I'm studying English to improve my skills!
+-  I create pixel art, and my icon is self-made!
 
 ---
 
