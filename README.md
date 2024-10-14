@@ -19,13 +19,13 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 
 ## 📚 What I'm Learning
 -  **Exploring**: Java Swing, JSP/Servlet for web development
--  **Improving**:
-  - Object-Oriented Design
-  - UI/UX Design for user-friendly and stylish apps
-  - Advanced JavaScript (DOM manipulation, event handling)
-  - Git and version control for seamless collaboration
-  - Database design and optimization with PostgreSQL
-  - Test automation to ensure code quality (JUnit, etc.)
+-  **Improving**:  
+   Object-Oriented Design  
+   UI/UX Design for user-friendly and stylish apps  
+   Advanced JavaScript (DOM manipulation, event handling)  
+   Git and version control for seamless collaboration  
+   Database design and optimization with PostgreSQL  
+   Test automation to ensure code quality (JUnit, etc.)  
 
 ---
 
