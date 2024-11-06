@@ -37,7 +37,6 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 ---
 
 ## 🌸 Fun Facts About Me
--  I love sushi and sometimes integrate sushi elements into my projects
 -  I live with two adorable little birds!
 -  I’m always sketching new app ideas and features
 -  I'm studying English to improve my skills!
