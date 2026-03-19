@@ -1,7 +1,9 @@
 ## I'm Shiori, at your service👋
 
 ✨ *Welcome to my GitHub profile!* ✨  
-I'm a junior engineer passionate about coding, design, and problem-solving. Let's build something amazing together! 🚀
+## 👩‍💻QA Engineer🔎  
+| JSTQB Certified | Java Silver | FE Certified
+Currently focusing on test automation with Python and Playwright.
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=pondekop)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pondekop)](https://github.com/pondekop/github-readme-stats) -->
@@ -12,7 +14,7 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 -  **Languages**: Java, JavaScript, Python, HTML, CSS, PHP
 -  **Databases**: PostgreSQL
 -  **Tools**: GitHub, Visual Studio Code, pgAdmin4, eclipse, flask
--  **Design**: Figma (I have some experience), Blender (basic 3D modeling)
+-  **Design**: Figma (I have some experience), Blender (basic 3D modeling), Affinity
 
 ![](https://skillicons.dev/icons?i=java,js,python,html,css,php,postgres,github,vscode,eclipse,flask,figma,blender)
 ---
@@ -22,17 +24,9 @@ I'm a junior engineer passionate about coding, design, and problem-solving. Let'
 -  **Improving**:  
    Object-Oriented Design  
    UI/UX Design for user-friendly and stylish apps  
-   Advanced JavaScript (DOM manipulation, event handling)  
    Git and version control for seamless collaboration  
    Database design and optimization with PostgreSQL  
    Test automation to ensure code quality (JUnit, etc.)  
-
----
-
-## 🎯 Goals
--  **Develop** apps that help people share and learn from mistakes
--  **Create** fun and interactive games (like a sushi-themed memory matching game! 🍣)
--  **Grow** as a software engineer, learning new technologies and refining my skills
 
 ---
 
